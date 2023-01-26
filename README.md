@@ -1,6 +1,6 @@
 ![Header](https://github.com/Jarr0t/Jarr0t/blob/main/assets/image.jpg)
 
-## I'm beginner 19 y.o. Software Engineer 💻
+## I'm beginner 19 y.o. Data Science Engineer 💻
 
 ## My Technical Stack 🛠️
 
