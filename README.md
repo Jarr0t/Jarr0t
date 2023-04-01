@@ -18,6 +18,7 @@
 ![Keras](https://img.shields.io/badge/Keras-1c1411?style=for-the-badge&logo=keras&logoColor=fff)
 ![React](https://img.shields.io/badge/React-1c1411?style=for-the-badge&logo=react&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1c1411?style=for-the-badge&logo=typescript&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-1c1411?style=for-the-badge&logo=java&logoColor=fff)
 
 ## Contact me
 
