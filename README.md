@@ -2,7 +2,7 @@
 
 # Hello there ✋ 
 
-## I'm beginner 20 y.o. Machine Learning & Deep Learning Engineer 💻
+## I'm beginner 21 y.o. Machine Learning & Deep Learning Engineer 💻
 
 ## Specialize in these languages/technologies 🛠️
 
