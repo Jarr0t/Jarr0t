@@ -2,7 +2,7 @@
 
 # Hello there ✋ 
 
-## I'm beginner 21 y.o. Machine Learning & Deep Learning Engineer 💻
+## I'm 22 y.o. Machine Learning & Deep Learning Engineer 💻
 
 ## Specialize in these languages/technologies 🛠️
 
@@ -11,9 +11,6 @@
 ![JupyterNotebook](https://img.shields.io/badge/Jupyter_Notebook-1c1411?style=for-the-badge&logo=jupyter&logoColor=fff)
 ![C++](https://img.shields.io/badge/C++-1c1411?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1c1411?style=for-the-badge&logo=javascript&logoColor=fff)
-
-## Have some experience with it:
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-1c1411?style=for-the-badge&logo=pytorch&logoColor=fff)
 ![Keras](https://img.shields.io/badge/Keras-1c1411?style=for-the-badge&logo=keras&logoColor=fff)
 ![React](https://img.shields.io/badge/React-1c1411?style=for-the-badge&logo=react&logoColor=fff)
